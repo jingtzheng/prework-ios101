@@ -25,6 +25,10 @@ The following **required** functionality is completed:
 4. Strava
    - recommends people to follow
    - colors match the mood for exercising
+  
+### My App Idea
+One app that I would like to build is a nutrition journal and gratitude tracker, all in one app. Both of these items allow people to live a healthy life and the app makes it easy for people to write down their thoughts in a structured format. I want to have two separate areas, one for nutrition tracking and another for gratitude journal. This would create two separate areas and in each section, things that are tailored to it can be added. For example, in the gratitude journal part, I can add motivational quotes and in the nutrition tracker, I can add nutrition facts. 
+
 ## Notes
 
 One challenge was setting up the environment because I did not click on ios initially and so I wasn't able to follow the tutorial completely. 
